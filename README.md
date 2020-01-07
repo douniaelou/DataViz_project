@@ -5,15 +5,12 @@
 ### Membres du groupe
 ### Technologies utilisées
 
-Dans le dossier dataviz :
 
-npm install 
-npm install -g serve
-Pour lancer
-npm run serve
 
-Pour compiler
-npm run build
 
-Pour lancer le dossier dist (code opti)
-serve -s dist
+
+
+On utilise npm:
+1 dans le dossier projet_dataviz 
+on fait : npm install / npm init --yes / npm install d3
+
