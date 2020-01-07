@@ -1,0 +1,117 @@
+[
+  {
+    "prime_genre": "Book",
+    "gratuit": 66,
+    "payant": 46
+  },
+  {
+    "prime_genre": "Business",
+    "gratuit": 20,
+    "payant": 37
+  },
+  {
+    "prime_genre": "Catalogs",
+    "gratuit": 9,
+    "payant": 1
+  },
+  {
+    "prime_genre": "Education",
+    "gratuit": 132,
+    "payant": 321
+  },
+  {
+    "prime_genre": "Entertainment",
+    "gratuit": 334,
+    "payant": 200
+  },
+  {
+    "prime_genre": "Finance",
+    "gratuit": 84,
+    "payant": 20
+  },
+  {
+    "prime_genre": "Food & Drink",
+    "gratuit": 43,
+    "payant": 20
+  },
+  {
+    "prime_genre": "Games",
+    "gratuit": 2257,
+    "payant": 1604
+  },
+  {
+    "prime_genre": "Health & Fitness",
+    "gratuit": 76,
+    "payant": 104
+  },
+  {
+    "prime_genre": "Lifestyle",
+    "gratuit": 94,
+    "payant": 50
+  },
+  {
+    "prime_genre": "Medical",
+    "gratuit": 8,
+    "payant": 15
+  },
+  {
+    "prime_genre": "Music",
+    "gratuit": 67,
+    "payant": 71
+  },
+  {
+    "prime_genre": "Navigation",
+    "gratuit": 20,
+    "payant": 26
+  },
+  {
+    "prime_genre": "News",
+    "gratuit": 58,
+    "payant": 17
+  },
+  {
+    "prime_genre": "Photo & Video",
+    "gratuit": 167,
+    "payant": 182
+  },
+  {
+    "prime_genre": "Productivity",
+    "gratuit": 62,
+    "payant": 116
+  },
+  {
+    "prime_genre": "Reference",
+    "gratuit": 20,
+    "payant": 44
+  },
+  {
+    "prime_genre": "Shopping",
+    "gratuit": 121,
+    "payant": 1
+  },
+  {
+    "prime_genre": "Social Networking",
+    "gratuit": 143,
+    "payant": 24
+  },
+  {
+    "prime_genre": "Sports",
+    "gratuit": 79,
+    "payant": 35
+  },
+  {
+    "prime_genre": "Travel",
+    "gratuit": 56,
+    "payant": 25
+  },
+  {
+    "prime_genre": "Utilities",
+    "gratuit": 109,
+    "payant": 139
+  },
+  {
+    "prime_genre": "Weather",
+    "gratuit": 31,
+    "payant": 41
+  }
+]
